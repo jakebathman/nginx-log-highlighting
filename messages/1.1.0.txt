@@ -1,0 +1,12 @@
+# Nginx Log Highlighting
+
+### v1.1.0
+
+    - Readme now includes more info about customizing colors and how scopes are assigned
+    - Fixed a bug with some date formats in the time_local scope 
+
+If you have any issues, let me know on GitHub: https://github.com/jakebathman/nginx-log-highlighting/issues
+
+You can also let me know on Twitter @JakeBathman
+
+Enjoy!
