@@ -1,0 +1,11 @@
+# Nginx Log Highlighting
+
+### v1.1.2
+
+    - Fixed an issue with regex parsing
+
+If you have any issues, let me know on GitHub: https://github.com/jakebathman/nginx-log-highlighting/issues
+
+You can also let me know on Twitter @JakeBathman
+
+Enjoy!
