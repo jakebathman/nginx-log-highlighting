@@ -1,0 +1,11 @@
+# Nginx Log Highlighting
+
+### v1.2.0
+
+    - Added support for matchin IPv6 addresses in addition to IPv4 (thanks themilkman!)
+
+If you have any issues, let me know on GitHub: https://github.com/jakebathman/nginx-log-highlighting/issues
+
+You can also let me know on Twitter @JakeBathman
+
+Enjoy!
